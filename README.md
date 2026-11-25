@@ -30,7 +30,7 @@ git clone https://github.com/singhsaracis/Error-and-Mistakes-in-AI-Sara.git
 4. Run the notebooks in the order above.
 
 ## Data
-The image sets are the edge, silhouette and cue-conflict stimuli of - https://github.com/Darshini-CogSci/AI_Mistakes_Error_Framework
+The stimuli are available at https://github.com/Darshini-CogSci/AI_Mistakes_Error_Framework/tree/main/stimuli_original_novel.
 
 ## Note on AI assistance
 Some of the code was generated with Claude AI and then reviewed and edited by the author.
